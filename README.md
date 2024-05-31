@@ -1,4 +1,4 @@
-# numpy_series 📊
+# Numpy_Series 📊
 
 Welcome to the numpy_series repository! This repository contains a series of Jupyter notebooks focusing on NumPy, a fundamental library for numerical computing in Python.
 
