@@ -26,4 +26,4 @@ Feel free to explore these notebooks to learn more about NumPy and enhance your 
 To get started with the notebooks in this repository, you can clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/numpy_series.git
+git clone https://github.com/Voxmind/numpy_series.git
